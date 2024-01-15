@@ -33,11 +33,10 @@ Meu portfólio é construído com as seguintes tecnologias:
 
 ## Contribuições
 
-Fique à vontade para fornecer feedback ou contribuir com melhorias. Se encontrar problemas ou tiver sugestões, por favor, abra uma [issue](https://github.com/seu-usuario/seu-portfolio/issues) ou envie um [pull request](https://github.com/seu-usuario/seu-portfolio/pulls).
-
+Fique à vontade para fornecer feedback ou contribuir com melhorias.
 ## Autor
 
-Este portfólio foi criado por Bruno Rodrigues. Conheça mais sobre mim e meu trabalho em [https://www.linkedin.com/in/bruno-rodrigues-521683239/].
+Este portfólio foi criado por Bruno Rodrigues.
 
 ## Licença
 
