@@ -26,7 +26,7 @@ Meu portfólio é construído com as seguintes tecnologias:
 
 ## Estrutura do Código
 
-- **`index.html`**: Contém a estrutura básica da página, apresentando meu perfil, projetos e informações de contato.
+- **`index.html`**: Contém a estrutura da página, apresentando meu perfil, skills, projetos e informações de contato.
 - **`style.css`**: Inclui estilos cuidadosamente projetados para criar uma aparência moderna e coesa.
 - **`script.js`**: Adiciona funcionalidades como animações e interações para uma experiência mais envolvente.
 
