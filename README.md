@@ -1,6 +1,5 @@
-Claro, aqui está um exemplo de texto para o README do seu portfólio:
 
-```markdown
+
 # Meu Portfólio
 
 Bem-vindo ao meu portfólio online! Este projeto foi desenvolvido para apresentar minhas habilidades, projetos e experiências no campo do desenvolvimento web.
