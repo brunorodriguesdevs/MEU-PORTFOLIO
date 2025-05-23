@@ -270,56 +270,65 @@ html{
     font-size: 14px;
 }
 /* clases se agregaram dinamicamente o javascript */
-.skills .skill .javascript {
+.progreso {
+    height: 10px;
+    background-color: #00aaff;
     width: 0%;
-    animation: 2s javascript forwards;
+    position: relative;
+    animation-fill-mode: forwards;
+    border-radius: 10px;
 }
-@keyframes javascript {
+
+/* JavaScript */
+.javascript {
+    animation: javascriptAnim 2s forwards;
+}
+@keyframes javascriptAnim {
     0% { width: 0%; }
     100% { width: 30%; }
 }
 
-.skills .skill .htmlcss {
-    width: 0%;
-    animation: 2s htmlcss forwards;
+/* HTML & CSS */
+.htmlcss {
+    animation: htmlcssAnim 2s forwards;
 }
-@keyframes htmlcss {
+@keyframes htmlcssAnim {
     0% { width: 0%; }
     100% { width: 60%; }
 }
 
-.skills .skill .mysql {
-    width: 0%;
-    animation: 2s mysql forwards;
+/* MySQL */
+.mysql {
+    animation: mysqlAnim 2s forwards;
 }
-@keyframes mysql {
+@keyframes mysqlAnim {
     0% { width: 0%; }
     100% { width: 70%; }
 }
 
-.skills .skill .comunicacao {
-    width: 0%;
-    animation: 2s comunicacao forwards;
+/* Comunicação */
+.comunicacao {
+    animation: comunicacaoAnim 2s forwards;
 }
-@keyframes comunicacao {
+@keyframes comunicacaoAnim {
     0% { width: 0%; }
     100% { width: 100%; }
 }
 
-.skills .skill .criatividade {
-    width: 0%;
-    animation: 2s criatividade forwards;
+/* Criatividade */
+.criatividade {
+    animation: criatividadeAnim 2s forwards;
 }
-@keyframes criatividade {
+@keyframes criatividadeAnim {
     0% { width: 0%; }
     100% { width: 100%; }
 }
 
-.skills .skill .dedicacao {
-    width: 0%;
-    animation: 2s dedicacao forwards;
+/* Dedicação */
+.dedicacao {
+    animation: dedicacaoAnim 2s forwards;
 }
-@keyframes dedicacao {
+@keyframes dedicacaoAnim {
     0% { width: 0%; }
     100% { width: 100%; }
 }
