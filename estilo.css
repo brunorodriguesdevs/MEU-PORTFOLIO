@@ -270,95 +270,60 @@ html{
     font-size: 14px;
 }
 /* clases se agregaram dinamicamente o javascript */
-.skills .skill .javascript{
+.skills .skill .javascript {
     width: 0%;
     animation: 2s javascript forwards;
 }
 @keyframes javascript {
-    0%{width: 0%;}
-    100%{width: 30%;}
+    0% { width: 0%; }
+    100% { width: 30%; }
 }
 
-.skills .skill .htmlcss{
+.skills .skill .htmlcss {
     width: 0%;
     animation: 2s htmlcss forwards;
 }
 @keyframes htmlcss {
-    0%{width: 0%;}
-    100%{width: 60%;}
+    0% { width: 0%; }
+    100% { width: 60%; }
 }
 
-.skills .skill .photoshop{
+.skills .skill .mysql {
     width: 0%;
-    animation: 2s photoshop forwards;
+    animation: 2s mysql forwards;
 }
-@keyframes photoshop {
-    0%{width: 0%;}
-    100%{width: 40%;}
+@keyframes mysql {
+    0% { width: 0%; }
+    100% { width: 70%; }
 }
 
-.skills .skill .wordpress{
+.skills .skill .comunicacao {
     width: 0%;
-    animation: 2s wordpress forwards;
+    animation: 2s comunicacao forwards;
 }
-@keyframes wordpress {
-    0%{width: 0%;}
-    100%{width: 81%;}
+@keyframes comunicacao {
+    0% { width: 0%; }
+    100% { width: 100%; }
 }
 
-.skills .skill .drupal{
+.skills .skill .criatividade {
     width: 0%;
-    animation: 2s drupal forwards;
+    animation: 2s criatividade forwards;
 }
-@keyframes drupal {
-    0%{width: 0%;}
-    100%{width: 55%;}
+@keyframes criatividade {
+    0% { width: 0%; }
+    100% { width: 100%; }
 }
 
-.skills .skill .comunicacion{
+.skills .skill .dedicacao {
     width: 0%;
-    animation: 2s comunicacion forwards;
+    animation: 2s dedicacao forwards;
 }
-@keyframes comunicacion {
-    0%{width: 0%;}
-    100%{width: 90%;}
+@keyframes dedicacao {
+    0% { width: 0%; }
+    100% { width: 100%; }
 }
 
-.skills .skill .trabajo{
-    width: 0%;
-    animation: 2s trabajo forwards;
-}
-@keyframes trabajo {
-    0%{width: 0%;}
-    100%{width: 100%;}
-}
-
-.skills .skill .creatividad{
-    width: 0%;
-    animation: 2s creatividad forwards;
-}
-@keyframes creatividad {
-    0%{width: 0%;}
-    100%{width: 100%;}
-}
-
-.skills .skill .dedicacion{
-    width: 0%;
-    animation: 2s dedicacion forwards;
-}
-@keyframes dedicacion {
-    0%{width: 0%;}
-    100%{width: 100%;}
-}
-
-.skills .skill .proyect{
-    width: 0%;
-    animation: 2s proyect forwards;
-}
-@keyframes proyect {
-    0%{width: 0%;}
-    100%{width: 100%;}
-}
 /* SESSÃO CURRICULO */
 .curriculum{
     background-color: #1e2326;
