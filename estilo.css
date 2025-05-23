@@ -280,7 +280,7 @@ html{
 
 .progreso {
   height: 100%;
-  background-color: #00aaff;
+  background-color: #1d1f20;
   width: 0%;
   border-radius: 10px 0 0 10px;
   animation-fill-mode: forwards;
